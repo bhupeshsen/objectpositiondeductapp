@@ -89,10 +89,16 @@ class SensorActivity : AppCompatActivity(), SensorEventListener {
         tvDegree.text = "Degree : "+angle
 
         // mam also check this link i hope it will be helpful
+        // actually lots of solution mam just tell me which one is helpful for us i will Intigrate mam
+
         //https://stackoverflow.com/questions/14477133/how-to-use-android-sensor-event-to-determine-if-device-is-facing-up-or-down
         //https://developer.android.com/guide/topics/sensors/sensors_motion#sensors-motion-rotate
+
         //https://stackoverflow.com/questions/31361328/how-do-i-get-the-angle-degree-of-the-phone-with-sensor-s
-        //https://stackoverflow.com/questions/11175599/how-to-measure-the-tilt-of-the-phone-in-xy-plane-using-accelerometer-in-android
+
+
+        // mam check this link confirm me mam let me know it is use full or not mam then i will inti.. https://stackoverflow.com/questions/11175599/how-to-measure-the-tilt-of-the-phone-in-xy-plane-using-accelerometer-in-android
+
         //https://stackoverflow.com/questions/13350622/getting-rotation-degree-from-gyroscope-android-sensor
     }
 
